@@ -35,7 +35,7 @@ axios.get("https://jsonplaceholder.typicode.com/todos/1").then(({data})=>show(da
 
 ### Development Notes
 Main tools used in the development phase:
-1. React with typescript
+1. React with **typescript**
 2. Redux/Redux thunk --for state management
 3. Express js --to create local API
 4. esbuild-wasm-- execution of the bundle phase
