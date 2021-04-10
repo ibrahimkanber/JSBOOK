@@ -15,5 +15,5 @@ mpm install JSBOOK45
 ### How to run
 
 * Default: **npx JSBOOK45 serve**
-* Option1: npx JSBOOK45 serve --port<portnumber> Example npx JSBOOK45 serve --port 4000
+* Option1: npx JSBOOK45 serve --port <portnumber> Example npx JSBOOK45 serve --port 4000
 
