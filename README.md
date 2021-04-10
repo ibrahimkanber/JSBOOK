@@ -23,4 +23,12 @@ mpm install JSBOOK45
 ### Development Notes
 
 #### What am I building?
+A CLI to launch an interactive development environment for writing and documenting code. Support JS, and MarkDown
 
+### Challanges at development and answers
+
+1. Item 1
+1. Item 2
+1. Item 3
+   1. Item 3a
+   1. Item 3b
