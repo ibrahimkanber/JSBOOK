@@ -10,7 +10,7 @@ jsbook45 is a simple JavaScript code editor with Markdown note functionality.
 
 ### How to install
 
-mpm install jsbook45
+npm install jsbook45
 
 ### How to run
 
