@@ -10,7 +10,7 @@ JSNote is a simple JavaScript code editor with Markdown note functionality.
 
 ### How to install
 
-mpm install JSBOOK45
+mpm install jsbook45
 
 ### How to run
 
@@ -27,8 +27,7 @@ A CLI to launch an interactive development environment for writing and documenti
 
 ### Challanges at development and answers
 
-1. Item 1
-1. Item 2
-1. Item 3
-   1. Item 3a
-   1. Item 3b
+1. Users write a code as a string.How can we execute?
+2. Users can write a code like JSX and our Browser cannot execute.What is the solution
+3. The code might have import statements for other JS files or CSS. We have to deal with those import statements before executing the code.What is the solution
+
