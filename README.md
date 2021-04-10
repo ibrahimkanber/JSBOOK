@@ -30,13 +30,14 @@ A CLI to launch an interactive development environment for writing and documenti
 Code will be provided to Preview as a string. We have to execute it safely ?
 
       A solution is esbuild wasm.ESBuild can transpile + bundle code all in the browser. 
-      #### ESBuild Bundling Cycle
+      --- ESBuild Bundling Cycle ---
       1. Figure out where the index.js is stored (onResolve)
       2. Attemp to load up the index.js file (onLoad)
       3. Parse the index.js file, find any import/require/exports
       4. If there's any import/require/exports, figure out where the requested file is (onResolve) => UNPKG
       5. Attemp to load up the file
       **(Used localforage (indexedDB) to cache)**
+
 
 
 
