@@ -16,9 +16,9 @@ npm install jsbook45
 
 * Default: **npx jsbook45 serve**  (With this command, a file named notebook.js(default file name) is created in the current folder and the application starts to run on port 4500 (default port).The changes in the notebook.js file are automatically saved and the user can open this file again with the following command. see Option1 )
 * Option1: **npx jsbook45 serve notebook.js** 
-* Option2:**npx jsbook45  serve mycode.js** (With this command, if there is mycode.js in the current folder, the file is opened, or the file named mycode is created and the application starts to run on port 4500)
-* Option3:**npx jsbook45 serve -p 4000 or npx jsbook45 serve -port 4000** (With this command, the application can be opened on the desired port.)
-* Option4:**npx jsbook45 serve mynotes.js -p 2510** (This command is a combination of other options and the application can be run on the desired port with the desired filename)
+* Option2: **npx jsbook45  serve mycode.js** (With this command, if there is mycode.js in the current folder, the file is opened, or the file named mycode is created and the application starts to run on port 4500)
+* Option3: **npx jsbook45 serve -p 4000 or npx jsbook45 serve -port 4000** (With this command, the application can be opened on the desired port.)
+* Option4: **npx jsbook45 serve mynotes.js -p 2510** (This command is a combination of other options and the application can be run on the desired port with the desired filename)
 
 #### show() funtion
 
