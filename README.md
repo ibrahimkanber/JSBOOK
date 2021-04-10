@@ -28,6 +28,6 @@ A CLI to launch an interactive development environment for writing and documenti
 ### Challanges at development and answers
 
 1. Users write a code as a string.How can we execute?
-2. <b>Users can write a code like JSX and our Browser cannot execute.What is the solution</b>
+<b>2. Users can write a code like JSX and our Browser cannot execute.What is the solution</b>
 3. The code might have import statements for other JS files or CSS. We have to deal with those import statements before executing the code.What is the solution
 
