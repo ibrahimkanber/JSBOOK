@@ -34,7 +34,13 @@ axios.get("https://jsonplaceholder.typicode.com/todos/1").then(({data})=>show(da
 </pre>
 
 ### Development Notes
-
+Main tools used in the development phase:
+-React with typescript
+-Redux/Redux thunk --for state management
+-Express js --to create local API
+-esbuild-wasm-- execution of the bundle phase
+-Monako code editor
+-Markdown editor
 #### What am I building?
 A CLI to launch an interactive development environment for writing and documenting code. Support JS, and MarkDown
 
