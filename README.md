@@ -27,7 +27,7 @@ A CLI to launch an interactive development environment for writing and documenti
 
 #### Challanges at development and answers
 
-1. <b>Code will be provided to Preview as a string. We have to execute it safely ?</b>
+Code will be provided to Preview as a string. We have to execute it safely ?
 
       A solution is esbuild wasm.ESBuild can transpile + bundle code all in the browser. 
       #### ESBuild Bundling Cycle
@@ -39,8 +39,4 @@ A CLI to launch an interactive development environment for writing and documenti
       **(Used localforage (indexedDB) to cache)**
 
 
-
-
-3. <b>This code might have advanced JS syntax in it (like JSX) that your browser can't execute</b>
-4. <b>The code might have import statements for other JS files or CSS. We have to deal with those import statements before executing the code</b>
 
