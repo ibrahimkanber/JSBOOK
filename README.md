@@ -26,9 +26,11 @@ mpm install jsbook45
 This function is the default function and renders the parameter in the field for the editor's right side. See examle below.
 
 <pre>
+<code>
+import axios from "axios"
 
-constx=5
-
+axios.get("https://jsonplaceholder.typicode.com/todos/1").then(({data})=>show(data))
+</code>
 </pre>
 
 ### Development Notes
