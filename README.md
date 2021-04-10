@@ -1,4 +1,4 @@
-## JSBOOK45
+## jsbook45
 
 JSNote is a simple JavaScript code editor with Markdown note functionality.
 
