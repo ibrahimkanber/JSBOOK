@@ -28,8 +28,7 @@ A CLI to launch an interactive development environment for writing and documenti
 #### Challanges at development and answers
 
 1. <b>Code will be provided to Preview as a string. We have to execute it safely ?</b>
-
-A solution is esbuild wasm.ESBuild can transpile + bundle code all in the browser. Small amount of JS(user input) => WASM (Go Lang bundler compiled to work in the browser)
+      A solution is esbuild wasm.ESBuild can transpile + bundle code all in the browser. Small amount of JS(user input) => WASM         (Go Lang bundler compiled to work in the browser)
 ##### ESBuild Bundling Cycle
 
 uffduasdas
