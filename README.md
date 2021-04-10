@@ -15,5 +15,5 @@ mpm install JSBOOK45
 ### How to run
 
 * Default: npx JSBOOK45 serve
-With this command
-* Contact: ikanber45@gmail.com
+* Option1: npx JSBOOK45 serve --port<portnumber> Example npx JSBOOK45 serve --port 4000
+
