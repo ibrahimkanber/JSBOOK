@@ -31,8 +31,9 @@ A CLI to launch an interactive development environment for writing and documenti
 
       A solution is esbuild wasm.ESBuild can transpile + bundle code all in the browser. 
       #### ESBuild Bundling Cycle
+      * Find the index.js is stored (onResolve)
 
-uffduasdas
+
 
 
 3. <b>This code might have advanced JS syntax in it (like JSX) that your browser can't execute</b>
