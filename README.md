@@ -31,7 +31,7 @@ A CLI to launch an interactive development environment for writing and documenti
 
       A solution is esbuild wasm.ESBuild can transpile + bundle code all in the browser. 
       
-#### ESBuild Bundling Cycle
+      #### ESBuild Bundling Cycle
 
 uffduasdas
 
