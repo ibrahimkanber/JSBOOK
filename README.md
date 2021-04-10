@@ -36,7 +36,7 @@ Code will be provided to Preview as a string. We have to execute it safely ?
       3. Parse the index.js file, find any import/require/exports
       4. If there's any import/require/exports, figure out where the requested file is (onResolve) => UNPKG
       5. Attemp to load up the file
-      **(Used localforage (indexedDB) to cache)**
+      (Used localforage (indexedDB) to cache)
 
 
 
